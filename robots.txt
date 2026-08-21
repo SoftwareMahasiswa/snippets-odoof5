@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://SoftwareMahasiswa.github.io/snippets-odoof5/sitemap.xml
